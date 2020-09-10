@@ -8,8 +8,8 @@ function compOutput(){
         {name: "Jeevan", luckyNumber: 93},
         {name: "Kyle", luckyNumber: 49},
         {name: "Yusuf", luckyNumber: 80},
-        {name: "Nick", luckyNumber: 4},
         {name: "Joe", luckyNumber: 19},
+	    {name: "Avi", luckyNumber: 35},
     ]
     
     //console.log(people.length); //= 10
